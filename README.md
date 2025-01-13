@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://BoBoBear0306/Enhanced_DSP48E2.com/">
-    <img src="!https://github.com/user-attachments/assets/260c0825-fc63-4650-8b54-73e0b40534e3" width="1000" height="500" />
+    <img src="https://github.com/user-attachments/assets/ad0a32a4-edc9-42f0-8c2a-c3053d2cc235" width="1000" height="500" />
   </a>
 
   <h1>Enhanced_DSP48E2</h1>
@@ -55,6 +55,8 @@ Our DSP can implement:
 - The cascaded architecture of our DSP:
 
 ![image](https://github.com/user-attachments/assets/00b7f417-f4ec-4f6b-b7e9-df81154b58bd)
+
+
 
 
 
